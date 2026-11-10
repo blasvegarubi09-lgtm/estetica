@@ -1,0 +1,10 @@
+{
+    "name": "estetica-kika",
+    "version": "1.0.0",
+    "description": "Sitio web Estética Kika",
+    "main": "SERVER.JS",
+    "scripts": {
+      "start": "node SERVER.JS"
+    },
+    "dependencies": {}
+  }
